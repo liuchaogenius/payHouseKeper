@@ -1,0 +1,40 @@
+PODS:
+  - FMDB (2.6):
+    - FMDB/standard (= 2.6)
+  - FMDB/standard (2.6)
+  - GPUImage (0.1.6)
+  - IQKeyboardManager (3.3.7)
+  - pop (1.0.9)
+  - Reachability (3.1.1)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - SSZipArchive (1.7)
+  - Toast (3.0)
+  - UMengAnalytics-NO-IDFA (4.1.9)
+
+DEPENDENCIES:
+  - FMDB (= 2.6)
+  - GPUImage (= 0.1.6)
+  - IQKeyboardManager
+  - pop
+  - Reachability (~> 3.1.1)
+  - SDWebImage (= 3.7.6)
+  - SSZipArchive
+  - Toast (= 3.0)
+  - UMengAnalytics-NO-IDFA (= 4.1.9)
+
+SPEC CHECKSUMS:
+  FMDB: c1968bab3ab0aed38f66cb778ae1e7fa9a652b6e
+  GPUImage: 4675ce4a5370ca92fcea8623b2a08b8f0c51b940
+  IQKeyboardManager: 249c3946acf61345c18b038eb50863fe2793e3a8
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  Reachability: dd9aa4fb6667b9f787690a74f53cb7634ce99893
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  SSZipArchive: 63f8e11cfcc33e03e4cd666b4359ea8bd6facd0c
+  Toast: 32c59229abfcf41850162b83bb9259dc84372473
+  UMengAnalytics-NO-IDFA: 985292af177111685325c90c321094172b95d2cb
+
+PODFILE CHECKSUM: bc979b16272ac9f3cd2dd1bf85787ed4f5f57b32
+
+COCOAPODS: 1.0.0.rc.2
